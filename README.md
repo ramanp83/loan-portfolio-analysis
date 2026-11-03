@@ -38,8 +38,8 @@ SQL was used for data profiling and quality checks, while Microsoft Excel was us
 
 - `sql/` — SQL profiling and analytical queries
 - `excel/` — Excel analysis and dashboard
-- `screenshots/` — Dashboard and chart previews
-- `docs/` — Methodology, KPI definitions and data dictionary
+- `screenshot/` — Dashboard and chart previews
+- `doc/` — Methodology, KPI definitions and data dictionary
 
 ## Important Notes
 
