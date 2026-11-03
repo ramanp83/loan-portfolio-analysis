@@ -32,7 +32,7 @@ SQL was used for data profiling and quality checks, while Microsoft Excel was us
 
 ## Dashboard Preview
 
-![Loan Portfolio Dashboard](screenshots/dashboard_overview.png)
+![Loan Portfolio Dashboard](screenshot/dashboard_overview.png)
 
 ## Repository Structure
 
